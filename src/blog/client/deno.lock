@@ -322,8 +322,8 @@
         "react-dom"
       ]
     },
-    "@rc-component/picker@1.12.0_dayjs@1.11.23_react@19.2.8_react-dom@19.2.8": {
-      "integrity": "sha512-0FZGgDiDZFMm2hcfGv4jyjm7yWIj2MiwfeTzLL0vWkO+8cCSKdiM9XhWpkn1aAsoI2EwUy48Oz2cGfvL8ZKrfw==",
+    "@rc-component/picker@1.12.2_dayjs@1.11.23_react@19.2.8_react-dom@19.2.8": {
+      "integrity": "sha512-ZB1A+tzTQkgtR4flPrAMvxIAOelIIOOOsp22fU2Nad6PbZcJacnyGJUJqUH7ZS9mwxeUwurf1pLMKXrVsK1tlA==",
       "dependencies": [
         "@rc-component/overflow",
         "@rc-component/resize-observer",
